@@ -11,7 +11,7 @@ function App() {
       <Paragraph> titulo 1 </Paragraph>
       <Paragraph> titulo 2 </Paragraph>
       <Counter></Counter>
-
+    
     </div>
   );
 }

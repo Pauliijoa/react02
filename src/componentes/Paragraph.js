@@ -1,8 +1,8 @@
 
 const Paragraph = (props) => {
-  return (
-    <p>{props.children}</p>
-  )
+    return (
+        <p>{props.children}</p>
+    )
 
 }
 
